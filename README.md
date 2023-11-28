@@ -1,6 +1,6 @@
 # Angular11App
 
-The [Angular Grid](https://www.syncfusion.com/angular-components/angular-grid?utm_source=github&utm_medium=listing&utm_campaign=angular-grid-github-samples) is a feature-rich data grid component for displaying data in a tabular format. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
+The [Angular Data Grid](https://www.syncfusion.com/angular-components/angular-grid?utm_source=github&utm_medium=listing&utm_campaign=angular-grid-github-samples) is a feature-rich data grid component for displaying data in a tabular format. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
 
 ## Development server
 
@@ -38,7 +38,7 @@ The Data Grid user interface is customized and redesigned for great views and us
 
 ### Column
 
-Columns define the schema of data source in the Data Grid. It supports formatting, auto generating columns, column definitions, freezing rows and columns, column spanning, text wrapping, column chooser, column menu, and other features.
+Columns define the schema of data source in the Data Grid. It supports formatting, auto generating columns, column definitions, freezing rows and columns, column spanning, text wrapping, [column chooser](https://ej2.syncfusion.com/angular/documentation/grid/columns/column-chooser?utm_source=github&utm_medium=listing&utm_campaign=angular-grid-github-samples), column menu, and other features.
 
 ### Paging
 
@@ -46,7 +46,7 @@ Paging is used to view a segment of data from the assigned data source. The Angu
 
 ### Sorting
 
-Sort rows either in the ascending or descending order against a column by simply clicking the header. Sort multiple columns’ data by holding Ctrl key + header click. In addition, define your own custom sorting logic based on the application needs.
+Sort rows either in the ascending or descending order against a column by simply clicking the header. Sort multiple columns’ data by holding Ctrl key + header click. In addition, define your own [custom sorting](https://ej2.syncfusion.com/angular/documentation/grid/sorting#custom-sorting?utm_source=github&utm_medium=listing&utm_campaign=angular-grid-github-samples) logic based on the application needs.
 
 ## Related links
 [Learn More about Angular Data Grid](https://www.syncfusion.com/angular-components/angular-grid?utm_source=github&utm_medium=listing&utm_campaign=angular-grid-github-samples)
