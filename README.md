@@ -1,6 +1,9 @@
-# Angular11App
+# Data Grid
 
-The [Angular Data Grid](https://www.syncfusion.com/angular-components/angular-grid?utm_source=github&utm_medium=listing&utm_campaign=angular-grid-github-samples) is a feature-rich data grid component for displaying data in a tabular format. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
+The [Angular Data Grid](https://www.syncfusion.com/angular-components/angular-grid?utm_source=github&utm_medium=listing&utm_campaign=angular-grid-github-samples) is a feature-rich data grid component for displaying data in a tabular format.
+
+## Angular11App
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
 
 ## Development server
 
